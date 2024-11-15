@@ -1,5 +1,6 @@
-Title: The rise of Singapour in Wearbales
-Content:
+<title>The rise of Singapour in Wearbales</title>
+<content>
 The G1 Event Realities glasses are a cutting-edge wearable device designed to enhance real-time learning and productivity through augmented reality (AR). Rather than projecting virtual objects or visuals, these glasses present a text-based screen directly in the user’s field of vision. This discrete display makes G1 ideal for applications such as teleprompters, navigation, notifications, translation, and educational content. With its compact, lightweight design, the G1 can be worn comfortably over long periods, allowing users to access critical information hands-free and in real time, making it an invaluable tool for busy professionals, educators, and students alike.
 
 Beyond general productivity, G1 Event Realities glasses are particularly powerful as a teaching aid. Educators can leverage the G1’s display to push content or instructions to students during lectures, demonstrations, or guided activities. Additionally, it can facilitate language learning through real-time translation and act as an AI-driven assistant for educators, displaying prompts, solutions, or hints while working with students. With G1, users experience a new layer of interaction with digital content that fosters focus, supports task completion, and enhances comprehension in both educational and professional environments.
+</content>
